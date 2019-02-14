@@ -12,6 +12,7 @@ Copyright (C) 2018 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
+make --version
 GNU Make 4.2.1
 Built for x86_64-pc-linux-gnu
 Copyright (C) 1988-2016 Free Software Foundation, Inc.
